@@ -1,0 +1,5 @@
+nimcache/
+nimdoc/
+*.exe
+*.bin
+scanp
