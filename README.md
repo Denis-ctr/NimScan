@@ -1,4 +1,4 @@
-# 🚀 NimScan: Ultra-Lightweight TCP Port Scanner
+#  NimScan: Ultra-Lightweight TCP Port Scanner
 
 <p align="center">
   <a href="https://nim-lang.org">
@@ -11,29 +11,29 @@
 
 ---
 
-## 📖 Haqqında (About)
+## Haqqında (About)
 **NimScan** — Nim proqramlaşdırma dili ilə hazırlanmış, minimalistik və yüksək performanslı bir port skanerdir. Bu alət həm sistem administratorları, həm də kibertəhlükəsizlik həvəskarları üçün şəbəkə üzərindəki açıq TCP portlarını sürətli şəkildə müəyyən etmək üçün nəzərdə tutulub.
 
 ---
 
-## 🔥 Əsas Özəlliklər (Key Features)
+##  Əsas Özəlliklər (Key Features)
 
-* ⚡ **Yüksək Sürət:** Nim dilinin C-yə yaxın performansı ilə sürətli skan.
-* 🛠 **İkili Rejim:** * **CLI Mode:** Arqumentlərlə sürətli giriş (məs: `./scanp 127.0.0.1 1 1024`).
+*   **Yüksək Sürət:** Nim dilinin C-yə yaxın performansı ilə sürətli skan.
+*   **İkili Rejim:** * **CLI Mode:** Arqumentlərlə sürətli giriş (məs: `./scanp 127.0.0.1 1 1024`).
   * **Interactive Mode:** Heç bir parametr daxil etmədən sual-cavab formatı.
-* 🛡 **Resurs İdarəetməsi:** Hər bir yoxlamadan sonra socket-lərin avtomatik bağlanması (Resource-safe).
-* 📝 **Səliqəli Çıxış:** Minimalist və oxunaqlı Terminal UI.
+*  **Resurs İdarəetməsi:** Hər bir yoxlamadan sonra socket-lərin avtomatik bağlanması (Resource-safe).
+*   **Səliqəli Çıxış:** Minimalist və oxunaqlı Terminal UI.
 
 ---
 
-## ⚙️ Texniki İş Prinsipi
+##   Texniki İş Prinsipi
 Skaner hər bir port üçün yeni bir socket yaradır və hədəf IP-yə TCP üçtərəfli əl sıxma (three-way handshake) sorğusu göndərir.
 
 
 
 ---
 
-## 🛠 Quraşdırma (Installation)
+##   Quraşdırma (Installation)
 
 Sisteminizdə [Nim](https://nim-lang.org/install.html) compiler olduğundan əmin olun.
 
