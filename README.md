@@ -16,6 +16,7 @@
 
 ---
 
+
 ##  Əsas Özəlliklər (Key Features)
 
 *   **Yüksək Sürət:** Nim dilinin C-yə yaxın performansı ilə sürətli skan.
